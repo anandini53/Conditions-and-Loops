@@ -45,7 +45,7 @@ Conditional statements includes :
     */
 // Examples :
 
-let marks =  76;
+let marks =  80;
 let subject = "Science";
 
 // 1. if
